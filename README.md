@@ -1,2 +1,2 @@
 # CSE109L
-Digital Logic
+Digital Logic LAB
